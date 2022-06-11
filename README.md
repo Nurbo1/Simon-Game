@@ -1,7 +1,7 @@
 # Simon-Game
-# It is simple Simon Game, which is implemented by me.
-# Press any Key to Start and Play.
-# Here is the rule: 
+ !! It is simple Simon Game, which is implemented by me.
+ !!Press any Key to Start and Play.
+ !!Here is the rule: 
 
 Press the START button. Simon will give the first signal. Repeat the signal by pressing the same color lens.
 
