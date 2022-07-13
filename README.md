@@ -1,5 +1,5 @@
 # Simon-Game
- !! It is simple Simon Game, which is implemented by me.
+ !! It is simple Simon Game, which is implemented by me.   https://nurbo1.github.io/Simon-Game/
  
  !!Press any Key to Start and Play.
  
